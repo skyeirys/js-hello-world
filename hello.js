@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Launchcode is a new beginning");
+console.log(21 +6)
+console.log("This is the first assignment")
+console.log("New to this but it's a challenge.", "How does one learn all this?")
+console.log('My favorite nickname is "Hennessy"')
+console.log("For the future, providing images of each action or how it should look as a solution to make things more concise")
 
 /*  
 Next, PLAY! 
